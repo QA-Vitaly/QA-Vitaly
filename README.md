@@ -64,9 +64,15 @@
   <li><a href="https://github.com/QA-Vitaly/web_testing">Тестирование интернет-магазина</a> – исследовательское и функциональное тестирование</li>
   <li><a href="https://github.com/QA-Vitaly/api_testing">API Тестирование</a> – REST & SOAP с помощью Postman</li>
   <li><a href="https://github.com/QA-Vitaly/MySQL">MySQL</a> – Тестирование базы данных интернет-магазина</li>
-  <li><a href="https://github.com/QA-Vitaly/Bash">Bash</a> – Тестирование базы данных интернет-магазина</li>
+  <li><a href="https://github.com/QA-Vitaly/Bash">Bash</a> – Учебные задания</li>
+  <li><a href="https://github.com/QA-Vitaly/mobile_testing">Тестирование мобильного приложения</a> – Ручное исследовательское тестирование</li>
+  
   
 
 </ul>
 
 
+---
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=QA-Vitaly)
