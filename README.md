@@ -69,9 +69,10 @@
   <li><a href="https://github.com/QA-Vitaly/api_testing">API Тестирование</a> – REST & SOAP с помощью Postman</li>
   <li><a href="https://github.com/QA-Vitaly/MySQL">MySQL</a> – Тестирование базы данных интернет-магазина</li>
   <li><a href="https://github.com/QA-Vitaly/Charles-Proxy">Charles-Proxy</a> – Перехват и изменение трафика</li>
-  <li><a href="https://github.com/QA-Vitaly/Bash">Bash</a> – Учебные задания</li>
   <li><a href="https://github.com/QA-Vitaly/mobile_testing">Тестирование мобильного приложения</a> – Ручное исследовательское тестирование</li>
-  
+  <li><a href="https://github.com/QA-Vitaly/MongoDB">MongoDB</a> – Учебные задания</li>
+  <li><a href="https://github.com/QA-Vitaly/Bash">Bash</a> – Учебные задания</li>
+
   
 
 </ul>
